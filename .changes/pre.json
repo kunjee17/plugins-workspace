@@ -18,6 +18,7 @@
     ".changes/dialog-message-android.md",
     ".changes/dialog-pin-rfd.md",
     ".changes/dialog-return-result.md",
+    ".changes/dialog-type_-to-kind.md",
     ".changes/fix-cmd-spawn-deadlock.md",
     ".changes/fix-debounced-event-type.md",
     ".changes/fix-deep-link-alpha-20.md",
